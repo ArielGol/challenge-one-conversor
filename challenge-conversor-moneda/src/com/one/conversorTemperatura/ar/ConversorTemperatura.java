@@ -24,7 +24,7 @@ public class ConversorTemperatura {
 	public double convertirFahrenheitACelsius(double temperatura) {
 		double celsius=(temperatura-32)/1.8;
 		celsius=(double)Math.round(celsius*100d)/100;
-		JOptionPane.showMessageDialog(null,temperatura+"°C"+" grados Fahrenheit son "+celsius+"°C"+" grados Celsius");
+		JOptionPane.showMessageDialog(null,temperatura+"°F"+" grados Fahrenheit son "+celsius+"°C"+" grados Celsius");
 		return celsius;
 	}
 	public double convertirKelvinACelsius(double temperatura) {
