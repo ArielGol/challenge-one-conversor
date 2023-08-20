@@ -54,8 +54,7 @@ El conversor de temperatura convierte valores de grados Celsius a los siguientes
 ![6](https://github.com/ArielGol/challenge-one-conversor/assets/79612737/58d0357b-3cd7-4d73-8c2b-9ca2ee53e149)
 ![7](https://github.com/ArielGol/challenge-one-conversor/assets/79612737/125cf075-bdfb-4086-a471-3215d54c4ed2)
 ![8](https://github.com/ArielGol/challenge-one-conversor/assets/79612737/ecab8ae1-758f-4531-aa2e-3114ecd2a546)
-![9](https://github.com/ArielGol/challenge-one-conversor/assets/79612737/cb9848d2-f153-4bac-af98-62f94ac04848)
-
+![fahrenheit](https://github.com/ArielGol/challenge-one-conversor/assets/79612737/b537cf53-71e0-4ceb-8a5d-74b47a0e5961)
 
 ## Tech Stack
 
